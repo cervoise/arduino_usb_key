@@ -7,4 +7,4 @@ Add a SD shield to an arduino, change the chipSelect value in arduino_code.ino.
 
 # Run
 
-Plug the Arduino on your target and copy the PowerShell script in order to save files on your SD card.
+Plug the Arduino on your target and copy the PowerShell script in order to save files on your SD card. The files will be base64 encoded.
